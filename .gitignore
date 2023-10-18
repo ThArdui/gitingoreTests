@@ -1,0 +1,2 @@
+Ajoutez dans le fichier .gitignore les deux lignes suivantes:
+\*.temp password.txt (On ne met évidemment pas un mot de passe en clair dans un fichier mais plutot dans un gestionnaire de mot de passes: par exemple keepass)
